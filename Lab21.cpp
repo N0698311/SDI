@@ -23,7 +23,7 @@ tourType destination;
 int main()
 {
 	Country();
-	destination.cityName = "London";
+	destination.cityName = "Nottingham";
 	destination.distance = 130;
 	destination.travelTime.hr = 3;
 	destination.travelTime.min = 15;
